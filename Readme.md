@@ -1,4 +1,4 @@
-# 📊 COVID-19 Metadata Analysis Dashboard 🦠
+# 📊 CORD-19 Metadata Analysis Dashboard 🦠
 
 Welcome to the **CORD-19 Metadata Analysis Dashboard**! This Streamlit app lets you explore the COVID-19 Open Research Dataset metadata interactively. Dive into publication trends, top journals, and visualize key insights from the research papers. 📚🔍
 
